@@ -1,4 +1,4 @@
-package peoplefinder.GET.api.users
+package aws.policy.tenant1
 
 default allowed = true
 
